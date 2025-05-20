@@ -1,1 +1,3 @@
 # lezione1
+
+ESERCIZIO NUMERO 1
